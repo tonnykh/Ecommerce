@@ -1,0 +1,793 @@
+{
+    "audiences": [
+        {
+            "id": "ba3d3f60-2e2e-4c5e-aa5e-3ff2061a7d1a",
+            "name": "Women",
+            "categories": [
+                {
+                    "id": "c7818ebd-189e-42e4-8b32-cc5b4e16da46",
+                    "name": "Apparel",
+                    "products": [
+                        {
+                            "id": "b07b22e6-0a4c-4a5a-92c2-3b4e17e87822",
+                            "name": "Dot print corset dress",
+                            "brand": "Mohani",
+                            "price": 90.00,
+                            "images": ["1001.jpg", "1001.jpg", "1001.jpg"],
+                            "material": "Cotton",
+                            "information": "Elevate your style with this long sleeve jacket featuring a tuxedo collar. Its timeless design exudes sophistication and elegance. The jacket is equipped with front flap pockets and a chest welt pocket, adding a touch of functionality without compromising on style. The tonal matching inner lining creates a seamless and harmonious look from the inside out. With a front button closure, this jacket ensures a polished and refined appearance.",
+                            "styles": [
+                                {
+                                    "id": "2ebdfe33-bfb7-4f0a-869f-3e0a8cc7f6cd",
+                                    "name": "Business"
+                                },
+                                {
+                                    "id": "381c84d9-ee8e-4a86-93b1-f60e6fc9307a",
+                                    "name": "Smart casual"
+                                }
+                            ],
+                            "colors": [
+                                {
+                                    "id": "fcf2bb54-23d1-4bea-bf3e-2efcc4d3e0ae",
+                                    "name": "Black",
+                                    "hex": "#000000",
+                                    "images": ["1001.jpg", "1001.jpg", "1001.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "4A7886D5-BDF3-4B00-A697-FC55E4D37429",
+                                            "size": "S",
+                                            "inStock": 10
+                                        },
+                                        {
+                                            "id": "12f7f81c-348d-4591-a74e-4e11a078b72c",
+                                            "size": "M",
+                                            "inStock": 20
+                                        },
+                                        {
+                                            "id": "8d3ad1b4-8857-4c8e-894a-2d5d3a4b8b30",
+                                            "size": "L",
+                                            "inStock": 15
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "b42c33e2-9186-4e6d-9dcd-55c2a3f4a4d9",
+                                    "name": "Pink",
+                                    "hex": "#FFC0CB",
+                                    "images": ["1001.jpg", "1001.jpg", "1001.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "d6d0fda3-8e6f-4d03-857f-bdab1742c020",
+                                            "size": "S",
+                                            "inStock": 4
+                                        },
+                                        {
+                                            "id": "2686a616-b548-47dd-9e5d-79094e93fb68",
+                                            "size": "M",
+                                            "inStock": 10
+                                        },
+                                        {
+                                            "id": "cc64636e-f1ce-4012-9ce0-6c54c4e59171",
+                                            "size": "L",
+                                            "inStock": 8
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "c305f1ce-2b34-4a8e-b0b4-34e738eeab7e",
+                            "name": "Blazer with tuxedo collar",
+                            "brand": "Diolo",
+                            "price": 75.00,
+                            "images": ["1002.jpg", "1002.jpg", "1002.jpg"],
+                            "material": "Wool",
+                            "information": "Double-breasted blazer with tuxedo collar, perfect for adding a touch of sophistication to your ensemble. The blazer features front welt pockets and a chest pocket, providing both style and functionality. Its satin lining adds a luxurious feel and ensures comfort throughout the day. The front button closure adds a polished finish to the overall design, making it an ideal choice for formal occasions or when you want to make a fashion statement.",
+                            "styles": [
+                                {
+                                    "id": "9b6958fe-5be5-4b2b-9e8c-77a5a68bc0fd",
+                                    "name": "Business"
+                                },
+                                {
+                                    "id": "a34e9b3c-3584-4b94-bcc2-514237e9d87c",
+                                    "name": "Formal"
+                                }
+                            ],
+                            "colors": [
+                                {
+                                    "id": "8c27f0dd-3f0e-44b0-8d4e-1d4b682b20f2",
+                                    "name": "Navy",
+                                    "hex": "#000080",
+                                    "images": ["1002.jpg", "1002.jpg", "1002.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "43AAD3BD-0C74-46BD-BE08-991817B3E3F5",
+                                            "size": "M",
+                                            "inStock": 11
+                                        },
+                                        {
+                                            "id": "86a40c92-6112-4d44-b9bc-032ae7cbb884",
+                                            "size": "L",
+                                            "inStock": 2
+                                        },
+                                        {
+                                            "id": "d6f7875c-82e0-47b6-80ab-7e91f605c27b",
+                                            "size": "XL",
+                                            "inStock": 5
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "e8e4ed8a-b5e0-46e5-89be-24374a8f3e3e",
+                                    "name": "Gray",
+                                    "hex": "#808080",
+                                    "images": ["1002.jpg", "1002.jpg", "1002.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "3c678d3d-6c7a-4e66-9974-f7aefbc9e9b7",
+                                            "size": "S",
+                                            "inStock": 14
+                                        },
+                                        {
+                                            "id": "4f4a1ab7-1a11-43d7-bd8a-5c59ea6d7c3b",
+                                            "size": "M",
+                                            "inStock": 10
+                                        },
+                                        {
+                                            "id": "3a26b03a-fa17-4dd5-b134-f5ef82a0c4ce",
+                                            "size": "L",
+                                            "inStock": 5
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "8360f942-9cbb-4195-9a9d-43780d58e0c1",
+                            "name": "Floral maxi dress",
+                            "brand": "Loriani",
+                            "price": 85.00,
+                            "images": ["1003.jpg", "1003.jpg", "1003.jpg"],
+                            "material": "Polyester",
+                            "information": "Make a statement with this stunning floral print maxi dress. The vibrant and eye-catching floral pattern brings a burst of color and life to your wardrobe. The dress features short sleeves and a flattering V-neckline, adding a touch of femininity and elegance. With an elastic waistband, it offers a comfortable and customizable fit that accentuates your curves. The flowy skirt adds a sense of movement and grace, allowing you to twirl and dance with ease.",
+                            "styles": [
+                                {
+                                    "id": "e5aa3d78-96d1-4528-8608-7e8e8c65de4c",
+                                    "name": "Casual"
+                                },
+                                {
+                                    "id": "46d4e46b-b6b1-4f83-86b1-8db036a46877",
+                                    "name": "Boho"
+                                }
+                            ],
+                            "colors": [
+                                {
+                                    "id": "d1ef68a1-99ad-4576-9466-1b9e94d9325f",
+                                    "name": "Red",
+                                    "hex": "#FF0000",
+                                    "images": ["1003.jpg", "1003.jpg", "1003.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "e0ad7c63-37d5-41c7-9976-9ed05f27445c",
+                                            "size": "XS",
+                                            "inStock": 8
+                                        },
+                                        {
+                                            "id": "e3ee2a70-9dd2-4b82-b9d6-2b1f5ad0815f",
+                                            "size": "M",
+                                            "inStock": 20
+                                        },
+                                        {
+                                            "id": "754d6b69-2013-4778-b82d-95a1be50e38f",
+                                            "size": "L",
+                                            "inStock": 10
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "90c6fbf6-354f-4f54-9f57-cc33eb9d4f85",
+                                    "name": "Blue",
+                                    "hex": "#0000FF",
+                                    "images": ["1003.jpg", "1003.jpg", "1003.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "5b8bb57b-b6d0-4fe4-b66e-0753b704e6d4",
+                                            "size": "S",
+                                            "inStock": 12
+                                        },
+                                        {
+                                            "id": "bc3c5a20-0a6f-4ce1-8daa-7c0c70438f9a",
+                                            "size": "M",
+                                            "inStock": 12
+                                        },
+                                        {
+                                            "id": "b9516bb0-4a7a-481a-91f7-d1a79b1a1469",
+                                            "size": "L",
+                                            "inStock": 6
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "e409a15f-8bb9-43e2-a289-02b8692a1029",
+                            "name": "Tweed blazer",
+                            "brand": "Totto",
+                            "price": 60.00,
+                            "images": ["1004.jpg", "1004.jpg", "1004.jpg"],
+                            "material": "Wool blend",
+                            "information": "Elevate your style with this timeless classic tweed blazer. Crafted with attention to detail, it features a sophisticated design that exudes elegance and refinement. The blazer showcases notch lapels, adding a touch of sophistication to your ensemble. With its front patch pockets and chest welt pocket, it combines both style and functionality, providing ample storage for your essentials.",
+                            "styles": [
+                                {
+                                    "id": "e772d954-4df9-4d85-a960-2e7f15352549",
+                                    "name": "Business"
+                                },
+                                
+                                
+                                {
+                                    "id": "a34e9b3c-3584-4b94-bcc2-514237e9d87c",
+                                    "name": "Formal"
+                                }
+                            ],
+                            "colors": [
+                                {
+                                    "id": "5639e7d6-2e34-46f9-82e3-702df5d4629c",
+                                    "name": "Gray",
+                                    "hex": "#808080",
+                                    "images": ["1004.jpg", "1004.jpg", "1004.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "83be9b9d-b156-448b-bf9e-8544d6e74a5c",
+                                            "size": "S",
+                                            "inStock": 7
+                                        },
+                                        {
+                                            "id": "f0b53171-1b77-4b2f-a157-0a84c23b22fd",
+                                            "size": "M",
+                                            "inStock": 15
+                                        },
+                                        {
+                                            "id": "e6753da5-8966-40e0-8d8f-3f9bc1e816b7",
+                                            "size": "L",
+                                            "inStock": 12
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "f6b0fbdc-23ac-4945-8af4-825798c4b73f",
+                                    "name": "Beige",
+                                    "hex": "#F5F5DC",
+                                    "images": ["1004.jpg", "1004.jpg", "1004.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "b9ff5990-74e4-4f34-8822-109cc9b4b79f",
+                                            "size": "S",
+                                            "inStock": 5
+                                        },
+                                        {
+                                            "id": "29cda8b4-31af-4d1a-a7cd-692b2d8e8c7a",
+                                            "size": "M",
+                                            "inStock": 8
+                                        },
+                                        {
+                                            "id": "1190e35e-bcc9-4d99-bb59-41e7a698c97a",
+                                            "size": "L",
+                                            "inStock": 3
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "f0eb86b9-d30b-4be4-903a-82ae8e15f5a5",
+                            "name": "Striped sweater",
+                            "brand": "Jole",
+                            "price": 55.00,
+                            "images": ["1005.jpg", "1005.jpg", "1005.jpg"],
+                            "material": "Cashmere",
+                            "information": "Wrap yourself in timeless style with this classic striped sweater. Designed with a crew neckline, it offers a clean and versatile look that complements any outfit. The sweater features ribbed cuffs, neckline, and hem, adding a touch of texture and definition to the overall design. Crafted from high-quality materials, it is not only stylish but also incredibly soft and cozy, providing a comfortable and warm experience.",
+                            "styles": [
+                                {
+                                    "id": "46d4e46b-b6b1-4f83-86b1-8db036a46877",
+                                    "name": "Casual"
+                                },
+                                {
+                                    "id": "90d5f520-3dcf-4d15-a8b4-6a93e7de256e",
+                                    "name": "Preppy"
+                                }
+                            ],
+                            "colors": [
+                                {
+                                    "id": "3b32f246-8f97-4d3e-af7d-dcc2521de313",
+                                    "name": "Navy",
+                                    "hex": "#000080",
+                                    "images": ["1005.jpg", "1005.jpg", "1005.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "11f6c3a5-152e-41e0-b3cd-ccbaa2571b91",
+                                            "size": "XS",
+                                            "inStock": 10
+                                        },
+                                        {
+                                            "id": "4c34af3e-5505-40c2-b5e6-27669d07e24c",
+                                            "size": "S",
+                                            "inStock": 15
+                                        },
+                                        {
+                                            "id": "2ea94e75-6a8f-405f-92b2-bb15f83076ab",
+                                            "size": "M",
+                                            "inStock": 12
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "52b3d17e-10cd-4a0b-a2b7-9c73c80f96a3",
+                                    "name": "Gray",
+                                    "hex": "#808080",
+                                    "images": ["1005.jpg", "1005.jpg", "1005.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "82a3d5e6-b0e3-42f4-ba1c-5c9d2f89ebee",
+                                            "size": "S",
+                                            "inStock": 11
+                                        },
+                                        {
+                                            "id": "d12907c7-27a1-405d-8b1a-9d8a2d232a4f",
+                                            "size": "M",
+                                            "inStock": 10
+                                        },
+                                        {
+                                            "id": "e84b46ea-27f3-4c0c-b0ae-2e26c0c8c04b",
+                                            "size": "L",
+                                            "inStock": 6
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "563aa46e-b422-4082-bbaf-ff4b17932b42",
+                            "name": "Ruffled blouse",
+                            "brand": "Floria",
+                            "price": 45.00,
+                            "images": ["1006.jpg", "1006.jpg", "1006.jpg"],
+                            "material": "Silk",
+                            "information": "Elevate your feminine charm with this stunning flowy ruffled blouse. The blouse features a flattering V-neckline that adds a touch of allure to your look. Its long sleeves are adorned with delicate ruffles, creating a romantic and ethereal vibe. The flowy silhouette drapes gracefully, allowing for freedom of movement and a comfortable fit. Elastic cuffs add a subtle detail and help to create a billowy effect on the sleeves.",
+                            "styles": [
+                                {
+                                    "id": "e5aa3d78-96d1-4528-8608-7e8e8c65de4c",
+                                    "name": "Casual"
+                                },
+                                {
+                                    "id": "cf10b2de-11b2-4a53-9879-0f76f5c6ce02",
+                                    "name": "Feminine"
+                                }
+                            ],
+                            "colors": [
+                                {
+                                    "id": "d3daac2f-0e0d-4b46-9a23-9fbdf1b38a0e",
+                                    "name": "White",
+                                    "hex": "#FFFFFF",
+                                    "images": ["1006.jpg", "1006.jpg", "1006.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "4b97ebe3-b8d0-4b02-9d57-2e7185ef1a97",
+                                            "size": "M",
+                                            "inStock": 12
+                                        },
+                                        {
+                                            "id": "a7419573-6229-4978-8a5a-3db282a6c0f7",
+                                            "size": "L",
+                                            "inStock": 18
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "85a96b27-c1f3-4741-8a8b-aece139b1e25",
+                                    "name": "Blush",
+                                    "hex": "#FFC0CB",
+                                    "images": ["1006.jpg", "1006.jpg", "1006.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "6c1336d1-8d13-4a5d-8490-7ee3c25064b0",
+                                            "size": "L",
+                                            "inStock": 8
+                                        },
+                                        {
+                                            "id": "c1f19d61-2e19-4ccf-8c5d-9ad6a636dfe7",
+                                            "size": "XL",
+                                            "inStock": 10
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "af276c60-309f-4d5b-bf3f-8ef79f8be758",
+                            "name": "Denim jacket",
+                            "brand": "DenimCo",
+                            "price": 60.00,
+                            "images": ["1007.jpg", "1007.jpg", "1007.jpg"],
+                            "material": "Denim",
+                            "information": "Introducing the timeless classic denim jacket, a must-have staple for every wardrobe. This jacket features a collar that adds a touch of structure and versatility to the design. The button front closure allows for easy wear and adds a touch of traditional charm. The jacket is equipped with flap chest pockets, providing a convenient and stylish storage option. Additionally, there are side welt pockets, perfect for keeping your hands warm or storing small essentials.",
+                            "styles": [
+                                {
+                                    "id": "46d4e46b-b6b1-4f83-86b1-8db036a46877",
+                                    "name": "Casual"
+                                },
+                                {
+                                    "id": "e098ce19-5e70-4e61-8e4b-6e7ce17fc097",
+                                    "name": "Street"
+                                }
+                            ],
+                            "colors": [
+                                {
+                                    "id": "e8e4ed8a-b5e0-46e5-89be-24374a8f3e3e",
+                                    "name": "Gray",
+                                    "hex": "#808080",
+                                    "images": ["1007.jpg", "1007.jpg", "1007.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "11a020fc-fb19-4ea1-9df5-ddeab0e69d4a",
+                                            "size": "XS",
+                                            "inStock": 11
+                                        },
+                                        {
+                                            "id": "e4d94d6e-5f5e-4ff6-a9bc-dc7f08bc83d4",
+                                            "size": "S",
+                                            "inStock": 15
+                                        },
+                                        {
+                                            "id": "a7dbdb12-ae8d-441e-ae3a-6e9a40675f16",
+                                            "size": "M",
+                                            "inStock": 12
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "b0fb19c1-7593-4f33-9e85-9860f7544849",
+                                    "name": "Black",
+                                    "hex": "#000000",
+                                    "images": ["1007.jpg", "1007.jpg", "1007.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "149edcb5-b6de-4bcb-9400-d54c62bc09a3",
+                                            "size": "S",
+                                            "inStock": 6
+                                        },
+                                        {
+                                            "id": "a1ab8a16-95c3-4ce2-aae3-cbfa63b866f3",
+                                            "size": "M",
+                                            "inStock": 10
+                                        },
+                                        {
+                                            "id": "179deded-98bf-41ea-94ea-598c623ddf75",
+                                            "size": "L",
+                                            "inStock": 6
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "383cc439-7b76-4089-9a32-90e8e37a0377",
+                            "name": "Pleated skirt",
+                            "brand": "Luna",
+                            "price": 50.00,
+                            "images": ["1008.jpg", "1008.jpg", "1008.jpg"],
+                            "material": "Cotton blend",
+                            "information": "Introducing the elegant and feminine flowy pleated skirt, a versatile addition to any wardrobe. This skirt features a flattering midi length, falling gracefully below the knee for a sophisticated look. The elastic waistband ensures a comfortable and adjustable fit, accommodating different body shapes and sizes. The flowy pleats add movement and grace to the skirt, creating a beautiful silhouette with every step.",
+                            "styles": [
+                                {
+                                    "id": "46d4e46b-b6b1-4f83-86b1-8db036a46877",
+                                    "name": "Casual"
+                                },
+                                {
+                                    "id": "f431e714-3507-45e6-ba54-1f812df1c089",
+                                    "name": "Girly"
+                                }
+                            ],
+                            "colors": [
+                                {
+                                    "id": "d3daac2f-0e0d-4b46-9a23-9fbdf1b38a0e",
+                                    "name": "White",
+                                    "hex": "#FFFFFF",
+                                    "images": ["1008.jpg", "1008.jpg", "1008.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "14cfce5a-6342-4f11-8943-32dfef9e023d",
+                                            "size": "M",
+                                            "inStock": 14
+                                        },
+                                        {
+                                            "id": "ecbd8847-9a5a-4a12-9069-fa56ae3e41fd",
+                                            "size": "L",
+                                            "inStock": 18
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "cfe4b2db-1bc0-4753-8be0-c6b6bcf38df2",
+                                    "name": "Pink",
+                                    "hex": "#FFC0CB",
+                                    "images": ["1008.jpg", "1008.jpg", "1008.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "16ae858f-4b5d-428f-9fcf-19567b7507ff",
+                                            "size": "XS",
+                                            "inStock": 12
+                                        },
+                                        {
+                                            "id": "aa83967a-0f5e-4b46-9b02-b7b54fd48316",
+                                            "size": "S",
+                                            "inStock": 10
+                                        },
+                                        {
+                                            "id": "24c1ff6c-8da2-45a2-8a2b-fc221c33e160",
+                                            "size": "M",
+                                            "inStock": 5
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "d61f4df1-1319-4b47-bfa2-1429b789441c",
+                            "name": "Long leather skirt",
+                            "brand": "Aurelia",
+                            "price": 95.00,
+                            "images": ["1009.jpg", "1009.jpg", "1009.jpg"],
+                            "material": "Leather",
+                            "information": "The high-quality leather ensures durability, ensuring that this skirt will remain a staple in your wardrobe for years to come. It features a comfortable and flattering fit, with a waistband that accentuates your curves while providing ease of movement. The skirt's design allows for versatile styling options, easily transitioning from day to night and effortlessly complementing a range of tops, blouses, or jackets.",
+                            "styles": [
+                                {
+                                    "id": "46d4e46b-b6b1-4f83-86b1-8db036a46877",
+                                    "name": "Casual"
+                                }
+                            ],
+                            "colors": [
+                                {
+                                    "id": "A8765257-9C09-40CF-949D-053AC9303750",
+                                    "name": "Black",
+                                    "hex": "#000000",
+                                    "images": ["1009.jpg", "1009.jpg", "1009.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "d6c51446-7f9d-4f78-b8e4-b2372eae6a06",
+                                            "size": "M",
+                                            "inStock": 9
+                                        },
+                                        {
+                                            "id": "d97de3ab-7e6d-4c26-94c8-49d80b850fcd",
+                                            "size": "L",
+                                            "inStock": 15
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "5325E931-8FCA-4504-AB57-5464A1B13D09",
+                                    "name": "Brown",
+                                    "hex": "#A52A2A",
+                                    "images": ["1009.jpg", "1009.jpg", "1009.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "ac1f8a2c-8f39-4bb6-bb4a-8d695ab9f3c4",
+                                            "size": "S",
+                                            "inStock": 6
+                                        },
+                                        {
+                                            "id": "d577a551-6e19-47f4-aeb5-7b3f0e343b6d",
+                                            "size": "M",
+                                            "inStock": 10
+                                        },
+                                        {
+                                            "id": "b7b471d3-9d4e-4d81-932a-6c1c9baf1b1e",
+                                            "size": "L",
+                                            "inStock": 6
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "be3a39d3-9379-4864-aee4-8fc2c4f526cd",
+                            "name": "Striped T-shirt",
+                            "brand": "Nautical",
+                            "price": 110.00,
+                            "images": ["1010.jpg", "1010.jpg", "1010.jpg"],
+                            "material": "Cotton",
+                            "information": "This classic striped T-shirt boasts a timeless design with its round neckline and short sleeves. The shirt features a series of horizontal stripes, adding a touch of visual interest and style. The round neckline provides a comfortable fit and frames the upper body nicely. The short sleeves offer a relaxed and casual look, making it a perfect choice for warm weather or layering under jackets and sweaters.",
+                            "styles": [
+                                {
+                                    "id": "e5aa3d78-96d1-4528-8608-7e8e8c65de4c",
+                                    "name": "Casual"
+                                },
+                                {
+                                    "id": "01354f2d-0a36-41cd-8c3f-f1cbcece8608",
+                                    "name": "Preppy"
+                                }
+                            ],
+                            "colors": [
+                                {
+                                    "id": "d3daac2f-0e0d-4b46-9a23-9fbdf1b38a0e",
+                                    "name": "White",
+                                    "hex": "#FFFFFF",
+                                    "images": ["1010.jpg", "1010.jpg", "1010.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "045e7221-2063-43ce-90c2-dc5ebaa0f4fd",
+                                            "size": "XS",
+                                            "inStock": 7
+                                        },
+                                        {
+                                            "id": "7f93ce8c-3ce5-4a72-8e29-f63c20c4969d",
+                                            "size": "S",
+                                            "inStock": 18
+                                        },
+                                        {
+                                            "id": "63e3f61e-bae2-4965-a78a-7aee9191eaf7",
+                                            "size": "M",
+                                            "inStock": 15
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "DF9756EF-F926-4B0B-860E-7D59596B40FD",
+                                    "name": "Black",
+                                    "hex": "#000000",
+                                    "images": ["1010.jpg", "1010.jpg", "1010.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "2f3455fb-8f39-4b5a-a5b4-f1244fe9bba8",
+                                            "size": "XS",
+                                            "inStock": 2
+                                        },
+                                        {
+                                            "id": "7ef5b96d-ef94-4b96-b8e3-b4937ef40919",
+                                            "size": "S",
+                                            "inStock": 10
+                                        },
+                                        {
+                                            "id": "5d87885d-d205-439f-9071-5ea306c3888e",
+                                            "size": "M",
+                                            "inStock": 5
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "f8f912af-2c6a-4fe4-9c20-96a5373c0b5e",
+                            "name": "Denim Jacket",
+                            "brand": "Vintage Denim",
+                            "price": 75.00,
+                            "images": ["1011.jpg", "1011.jpg", "1011.jpg"],
+                            "material": "Denim",
+                            "information": "Crafted from high-quality denim fabric, this jacket offers both durability and comfort. The denim material provides a classic and timeless appeal while also ensuring its longevity. The jacket's construction and stitching are of top-notch quality, guaranteeing a reliable and well-made garment.",
+                            "styles": [
+                                {
+                                    "id": "7f74a1df-7ed7-44ce-aa20-baefad6973d7",
+                                    "name": "Street Style"
+                                },
+                                {
+                                    "id": "fbd523d4-9e63-4f09-9536-3a02f1d1d200",
+                                    "name": "Casual Chic"
+                                }
+                            ],
+                            "colors": [
+                                {
+                                    "id": "0413a9d1-0a13-4d3f-8c25-9150b4641b78",
+                                    "name": "Light Blue",
+                                    "hex": "#B0C4DE",
+                                    "images": ["1011.jpg", "1011.jpg", "1011.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "9db09c4a-5e8e-43e4-9850-5b384d2e49f6",
+                                            "size": "S",
+                                            "inStock": 10
+                                        },
+                                        {
+                                            "id": "eb02a2f3-877b-48b2-9f7f-795b6986075e",
+                                            "size": "M",
+                                            "inStock": 15
+                                        },
+                                        {
+                                            "id": "27d3e2ad-5e42-4a33-b57c-9b31a1a5504e",
+                                            "size": "L",
+                                            "inStock": 20
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "fde9ac0d-7388-45dd-a828-cd43c0ad30ce",
+                                    "name": "Dark Blue",
+                                    "hex": "#000080",
+                                    "images": ["1011.jpg", "1011.jpg", "1011.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "bc823f9a-f0f9-41d3-a3b4-5d36d6c25c73",
+                                            "size": "XS",
+                                            "inStock": 8
+                                        },
+                                        {
+                                            "id": "6921ac1a-116e-43da-9518-124f943927f1",
+                                            "size": "S",
+                                            "inStock": 12
+                                        },
+                                        {
+                                            "id": "a89ef6be-8b3d-439f-9ff6-8a073a78fd3d",
+                                            "size": "M",
+                                            "inStock": 10
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "c5e7487a-6dbd-4774-92e1-6ae2b233e17b",
+                            "name": "Maxi Skirt",
+                            "brand": "Bohemian Dreams",
+                            "price": 85.00,
+                            "images": ["1012.jpg", "1012.jpg", "1012.jpg"],
+                            "material": "Chiffon",
+                            "information": "Adorned with a beautiful floral print, this skirt embraces a romantic and charming aesthetic. The vibrant and intricately detailed floral patterns add a pop of color and visual appeal, creating a statement piece that stands out. The flowy fabric gracefully drapes and moves with every step, creating a sense of ethereal beauty.",
+                            "styles": [
+                                {
+                                    "id": "0f5d17f5-3e59-4bda-9d02-0e84e48c0182",
+                                    "name": "Bohemian"
+                                },
+                                {
+                                    "id": "1205a41f-5879-4575-96e9-5d9ff92e5d9e",
+                                    "name": "Feminine"
+                                }
+                            ],
+                            "colors": [
+                                {
+                                    "id": "18fd46ef-d678-47a2-9d8a-ef32b8e1b5a9",
+                                    "name": "Pink",
+                                    "hex": "#FFC0CB",
+                                    "images": ["1012.jpg", "1012.jpg", "1012.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "c2db9d1d-0904-4d2b-a835-5250e6a9790e",
+                                            "size": "M",
+                                            "inStock": 6
+                                        },
+                                        {
+                                            "id": "8f53a199-cb16-4161-bd34-bd746fe80eb2",
+                                            "size": "L",
+                                            "inStock": 10
+                                        },
+                                        {
+                                            "id": "c04dd614-0eb0-4340-a71d-943d9e5b5581",
+                                            "size": "XL",
+                                            "inStock": 12
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "e4b448ed-5996-4c0c-a38f-064d3d94f216",
+                                    "name": "Blue",
+                                    "hex": "#87CEEB",
+                                    "images": ["1012.jpg", "1012.jpg", "1012.jpg"],
+                                    "items": [
+                                        {
+                                            "id": "dd75918d-98d1-40ad-9703-8282e0a1d4dd",
+                                            "size": "S",
+                                            "inStock": 15
+                                        },
+                                        {
+                                            "id": "993d28a0-ee0d-4914-8b59-9a1a697d4b61",
+                                            "size": "M",
+                                            "inStock": 20
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
